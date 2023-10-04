@@ -1,0 +1,1061 @@
+- Jon apple account
+
+username: johnkufa@live.com
+
+password: $Maximus$123
+
+sudo spctl --master-disable
+
+
+	
+Shaheen Abdulhameed
+gas apk
+
+5.11, 5.27
+
+10.21
+
+https://developer.xamarin.com/guides/ios/advanced_topics/native_interop/
+https://forums.xamarin.com/discussion/94122/rectangle-overlay-on-camera-for-ocr-using-xamarin-android
+https://github.com/halkar/Tesseract.Xamarin
+https://github.com/Anyline/anyline-ocr-xamarin-module
+http://thatcsharpguy.com/post/tesseract-ocr-xamarin/
+
+Skype
+
+zjg02016891@hotmail.com
+02016891zjg
+jjg02016891@gmail.com
+02016891jjg!@#$()
++8613080887530
+
+https://i.diawi.com/dyYUgv
+
+- My Apps
+
+Modern Education
+https://itunes.apple.com/us/app/modern-education/id1015735677?mt=8
+ 
+Supercall
+https://itunes.apple.com/us/app/dlylk-m-rft-asm-w-rqm-jwal/id1006399940?mt=8
+ 
+iDoser
+https://itunes.apple.com/sg/app/i-doser-premium/id295536778?mt=8
+ SmoothPay
+https://itunes.apple.com/nz/app/smoothpay/id718655926?mt=8
+
+https://www.dropbox.com/s/8jw72cpphotw0sf/wireframe-%281%29.png?dl=0
+https://www.dropbox.com/s/3x07jyi8aok0b83/111.png?dl=0
+
+- Canvas Apple Account
+
+Espinozacarmen81@gmail.com
+Titosammy1230
+
+- Daniel’s Apple Account
+
+username: quite_bemused@hotmail.com
+password: Arvuti01!
+
+
+crazy domain
+username: moderned
+password: Arvuti01!
+bundle id : au.com.moderneducation.me
+
+- iOS Tips
+
+Resource fork error
+find . -type f -name '*.png' -exec xattr -c {} \;
+
+- Helpini
+
+https://docs.google.com/document/d/18u3BlWpBn8AQMar1agjN0tW5yb6WQAVYpHTI5cpaC1k/edit?ts=593f9574
+
+http://admin.helpini.net/api/v1/
+http://192.168.1.105/Helpini/api/v1
+
+admin@idragonit.com
+password: idragonit
+
+
+Currently backend site is deployed under “admin.helpini.net”.
+http://admin.helpini.net
+
+http://www.helpini.net  is for frontend site. i think.
+so added subdomain and deployed backend site to that..
+
+login credentials: 
+email: admin@helpini.net
+password: helpini
+
+Hosting Details and Domain
+
+https://www.helpini.net
+
+Domain: helpini.net
+IP Adress: 50.30.32.59
+
+FTP: 
+
+Username: helpini
+Password: 6rcTcjaT&Wr1c0rk
+
+
+Control Panel (Plesk)
+https://helpini.net:8443
+
+Username: helpini
+Password: 6rcTcjaT&Wr1c0rk
+
+
+Database:
+name: helpini_db
+user: helpini
+password: Jdr9^pgcqHC28zin
+
+Amazon
+info@tbitdesign.com
+5tand4IT
+
+Today
+
+SMTP problem
+
+OneSignal
+
+Keystore
+
+alias: cjh
+password: aifakftys
+
+OneSignal Account Details:
+
+Username: helpiniapp@gmail.com
+Password: D1934!!ad-di39A
+
+https://docs.google.com/document/d/1fqljylsQvZWhz55J4anlliKwBcLTR4rwg8_w_pyzGGQ/edit?usp=sharing
+
+Huapeng Li
+
+[11/8/17, 5:48:56 AM] Cristian Albert: gastro-booking.cz
+[11/8/17, 5:49:05 AM] Cristian Albert: laravel & angular
+[11/8/17, 5:49:14 AM] Cristian Albert: aivalabs.com(angular & silex)
+[11/8/17, 5:49:27 AM] Cristian Albert: b2b.kepotech.net(laravel & angular4)
+
+- QuickPay
+
+ yr1990226@yahoo.com
+pwd: 300kmoney
+
+7004d632bbe33b3bc7dec7e996140ae3 : 12345
+12dcc16b8194264aee75abf33bf09cb4
+
+www.yourlocalcall.com
+gastrobookings.com
+
+Richard Clark
+
+http://208.76.102.30
+root / D!pv2o17!!
+
+fir.im
+
+Apple Account
+
+rjkeele@dipvtel.com
+RK5464lr
+
+Google Account
+Email: dipvtelinc@gmail.com
+Password: D!pv2o17!!
+rjkeele@dipvtel.com
+RK5464lr
+
+PayPal
+
+cjh124@outlook.com
+aifakftys
+
+SSH
+
+nmsadmin
+NMS2o16!!
+
+UDID
+
+041017f3f439800161540690639381830c59cc24
+04bb06257e18b83a0f06d42694dd446e24b4cd0e
+4fcba26701b9a8c54a044ef29ffa68fb6e029c91
+
+http://208.73.233.211:8080/YLC
+http://208.73.233.211:8080/YLC/Backend.do
+jinhe
+jinhe
+
+208.73.233.90:8080/YLC/Backend.do
+
+
+cjh126@outlook.com
+
+1. customer runs out of money
+2. system cannot take payment from balance
+3. Customer makes payment
+4. As soon as customer makes payment system should take past payment from balance for numbers and in 
+ part 4 I do not believe is working
+
+also when number is suspended I believe it  is removing from NMS translations
+and when number is in suspended it should put these numbers back if it is doing that
+I think maybe lishi and I did not go through this well enough to decide what to do with these numbers
+
+clean server when the unknown error is occurred
+
+http://portal.yourlocalcall.com/admin
+admin/D!pv2o14!!
+
+
+pete@parablehealth.com
+
+https://www.digitalocean.com/community/tutorials/how-to-install-apache-tomcat-8-on-ubuntu-16-04
+https://www.digitalocean.com/community/tutorials/how-to-install-mysql-on-ubuntu-16-04
+https://www.digitalocean.com/community/tutorials/how-to-install-and-secure-phpmyadmin-on-ubuntu-16-04
+
+Tomcat installation guide
+
+ssh nmsadmin@208.73.233.90 "mysqldump -u root -pletmein ylc | gzip -c" > ylc.gz
+ssh nmsadmin@208.73.233.90 “mysql -u root -p letmein” < ylc_countries.gz|gunzip
+sudo apt-get install pv
+pv mydump.sql.gz | gunzip | mysql -u root -p
+mysql -uUSERNAME -p DATABASE < backup.sql
+
+7z x -so E:\Work\SQLBackup\ylc.gz | mysql -u root -p test
+set PATH=%PATH%;C:\Program Files\7-Zip\
+
+
+https://subicura.com/2017/01/19/docker-guide-for-beginners-2.html
+
+https://www.abptech.com/old/products/entice/
+
+CentOS Install GUI
+
+su
+
+cd /etc/sysconfig/network-scripts/
+
+vi ifcfg-ens33 // Set ONBOOT as “yes”
+
+reboot
+
+su
+
+yum -y group install “GNOME Desktop” “Graphical Administration Tools”
+
+ln -sf /lib/systemd/system/runlevel15.target /etc/systemd/system/default.target
+
+reboot
+
+* "0 0 * * * *" = the top of every hour of every day.
+* "*/10 * * * * *" = every ten seconds.
+* "0 0 8-10 * * *" = 8, 9 and 10 o'clock of every day.
+* "0 0 6,19 * * *" = 6:00 AM and 7:00 PM every day.
+* "0 0/30 8-10 * * *" = 8:00, 8:30, 9:00, 9:30, 10:00 and 10:30 every day.
+* "0 0 9-17 * * MON-FRI" = on the hour nine-to-five weekdays
+* "0 0 0 25 12 ?" = every Christmas Day at midnight
+http://thatcsharpguy.com/post/tesseract-ocr-xamarin/
+http://bluebead38.blogspot.hk/2017/04/xamarin-android-tesseract-ocr_12.html
+https://www.youtube.com/watch?v=DJYLrVNY2ak
+
+http://128.199.71.0/GasService
+
+mount / -o remount,rw
+
+
+solizlizeth9205
+geoking99
+									
+IMS03381
+TEST-MIG220	USERNEW2
+
+apt-get install ncdu
+
+First remove MySQL:
+sudo apt-get remove --purge mysql-server mysql-client mysql-common
+sudo apt-get autoremove
+sudo apt-get autoclean
+Then reinstall:
+sudo apt-get update
+sudo apt-get install mysql-server
+sudo mysql_install_db
+sudo /usr/bin/mysql_secure_installation
+
+Ricky’s customer
+
+rjkeele
+RK5464lr
+
+yuri930.sw@gmail.com
+https://www.dropbox.com/s/9vbegvqxxzjefh8/screenrecorder.20171124222603.mp4?dl=0
+
+https://i.diawi.com/H3ggHA
+
+https://webapp.diawi.com/install/mA53zp
+
+http://billing2.dipvtel.com/api/Import_entice_cdrs.aspx
+
+1. Inmate B has to pay $12.00 that we have collected
+2. After the $12 is collected system will add referral fee to Inmate A for ($4 This has to be set in our Maintenance section so that it can be controlled) I think it is already done
+3. You can only count money actually received so it has to be payment by ( these types) Check, BP199, Western Union)
+4. So when CSRep post payment of one of these types the system must run the script if there is referral code on profile
+
+jinchengri720@hotmail.com
+
+JUAN HINOJOSA 66118380
+
+1. Referral fee still does not work 
+2. Pending BP199 issues
+3. Adding funds from account balance. 
+4. Issues with iPhone seeing balance. 
+5. Showing balance on all credit card payments. 
+6. Inmate balance should show different inside mobile app.
+
+https://developer.elavon.com/#/api/eb6e9106-0172-4305-bc5a-b3ebe832f823.rcosoomi/versions/5180a9f2-741b-439c-bced-5c84a822f39b.rcosoomi/details
+
+https://www.youtube.com/watch?v=fbDgMPhHERM
+
+ http://old.yourlocalcall.com/help-support.html
+
+http://old.yourlocalcall.com/refund-policy.html
+
+https://www.dropbox.com/s/6uvgn9mztuqwnlz/VISUALS-Test-Report-20171228.pdf?dl=0
+
+rjkeele
+RK5466lr
+
+[1/9/18, 9:07:39 AM] Tech Support: Roberts
+[1/9/18, 9:07:49 AM] Tech Support: aroberts
+[1/9/18, 9:08:05 AM] Tech Support: I have another issue I need for you to look at now
+[1/9/18, 9:08:18 AM] Tech Support: MICHAEL JACKSON DEZAY 15129026
+[1/9/18, 9:08:24 AM] Tech Support: Look at this inmate
+[1/9/18, 9:08:58 AM] Tech Support: FCI Forrest City
+[1/9/18, 9:09:18 AM] Tech Support: It is showing 6 numbers available but says each one is used
+
+[1/9/18, 5:37:24 AM] Tech Support: Also did you follow up on the referral fee. I still have never seen referral fee work
+[1/9/18, 5:37:30 AM] Tech Support: No cannot
+[1/9/18, 5:37:48 AM] Tech Support: I have tried over and over and it does not work
+[1/9/18, 5:37:59 AM] Tech Support: Try aroberts
+[1/9/18, 5:38:16 AM] Tech Support: Change the password and try to login
+[1/9/18, 5:38:49 AM] Tech Support: 2.tell me about the referral fee
+
+[1/9/18, 5:35:35 AM] Tech Support: Oh and also the system is not sending email every time to change password. Also if you change password from the portal it does not work
+[1/9/18, 5:36:06 AM] Tech Support: We tried with aroberts many times yesterday
+[1/9/18, 5:36:20 AM] Tech Support: We get complaints everyday about this
+
+CDRTEMPLATE=$CLGNAME[10]$CLGNUM[32]$TCLGNUM[32]$CLDNAME[10]$CLDNUM[32]$TCLDNUM[32]$CLGRG[4]$CLDRG[4]$RELCAU[4]$CTIME[YYYY/MM/DD HH24:MI:SS  ]$ATIME[YYYY/MM/DD HH24:MI:SS  ]$DTIME[YYYY/MM/DD HH24:MI:SS  ]$DURATION[10]$CLGIP[20]CLGPORT[6]$CLDIP[20]$CLDPORT[6]$IBYTES[10]$OBYTES[10]
+
+FLUSH QUERY CACHE;
+
+https://opentutorials.org/course/196/1323
+
+SLACK
+
+nms-mgr.slack.com
+email: lmsyx15@hotmail.com
+
+select sum(a.payment_amount) as total_amount from payment_type t, inmate_payment a where t.is_referral=1 and t.id=a.payment_type and a.is_invoice=0 and a.is_remit=0 and a.is_refunded=0 and a.inmate_id = 4281
+
+https://www.dropbox.com/s/596jv9bqc6z73hp/VISUALS-Status-Report-20180118.pdf?dl=0
+please check the #3 open issues
+
+wolf_spg@hotmail.com
+
+you changed so that we have to add check number to BP199 but you also did same on pending BP199
+1. Fix this
+2. The number problem when suspended and then they are unsuspended
+3. the color code of the numbers
+4. numbers playing out of funds message when there is mney
+
+Ylc2o18!!
+
+- ColorMatter
+
+
+http://color_matter.api-docs.io/v1.0
+
+
+IOS
+
+AdColony (Rewarded)
+App ID: appccc7ac9625604eea84 | Zone IDs (semicolon separated list): vz90a851234cb34c7aa0
+
+Chartboost (Rewarded)
+App ID: 57314cdf43150f68c15cbee1 | App Signature: 33ae4346e5d44445e84f7cd0889922695d0702c9
+
+Vungle (Rewarded)
+Application ID: 57729072cd543b0a7a00001b
+
+Unity Ads (Rewarded) ==> CURRENTLY DISABLED
+Game ID: 1076797 | Zone ID: rewardedVideo
+
+apple id: zenkolabs@gmail.com
+password: There57ife@
+
+https://www.whatsmydns.net
+
+13614438522
+
+https://i.diawi.com/2b3nhi
+
+1. Low Balance Alert
+2. Referral Fee programing cron job
+
+- Gambling
+
+
+Bustabit account
+
+username: marcuslee15
+password: 3pjt7e5nH9E
+
+Passphrase: crazy horse battery staple
+
+BIP32 Extended Key:
+xprv9s21ZrQH143K2JF8RafpqtKiTbsbaxEeUaMnNHsm5o6wCW3z8ySyH4UxFVSfZ8n7ESu7fgir8imbZKLYVBxFPND1pniTZ81vKfd45EHKX73
+
+Derived Private Key
+xprv9wHokC2KXdTSpEepFcu53hMDUHYfAtTaLEJEMyxBPAMf78hJg17WhL5FyeDUQH5KWmGjGgEb2j74gsZqgupWpPbZgP6uFmP8MYEy5BNbyET
+
+Private Key (WIF)
+KxDQjJwvLdNNGhsipGgmceWaPjRndZuaQB9B2tgdHsw5sQ8Rtqje
+KxDQjJwvLdNNGhsipGgmceWaPjRndZuaQB9B2tgdHsw5sQ8Rtqje
+13425814053378824901938957981723463014083141882224981858127921084580682984742
+
+Derived Public Key
+xpub6AHA9hZDN11k2ijHMeS5QqHx2KP9aMBRhTDqANMnwVtdyw2TDYRmF8PjpvwUFcL1Et8Hj59S3gTSMcUQ5gAqTz3Wd8EsMTmF3DChhqPQBnU
+
+Public Key (Hex)
+02fcba7ecf41bc7e1be4ee122d9d22e3333671eb0a3a87b5cdf099d59874e1940f
+
+Address
+1Nro9WkpaKm9axmcfPVp79dAJU1Gx7VmMZ
+1Nro9WkpaKm9axmcfPVp79dAJU1Gx7VmMZ
+
+- Abdulhameed
+
+https://babvps.com
+IP: 62.141.46.155 
+User: Administrator
+
+Skype : mis14111978
+
+- NewsHom
+
+Apple Account
+info@nabgroupltd.com
+NAB@group1973
+
+apelbaum@gmail.com
+10ashira10
+
+Bluehost
+newshomc
+Hello@123456#
+
+admin@newshom.com
+Lsu91930624!
+
+support@newshom.com
+
+Networksolution
+
+user : albaik1973
+password:newshom@1973
+
+FTP account: ftp2913829
+pw: !su9~9S0be3
+
+MySQL server account
+
+IP: mysqlcluster13.registeredsite.com
+Username : shili
+Password : !su9~9S0be3
+Database name : newshom
+
+Twitter 
+
+username beknewshom
+password Newshom@123456
+
+Subproject commit fae2382558b4c0210f1f1dfb34d616db3d6c3212
+
+        password: reS1jjVJ
+        username: user32IZOcjk
+
+
+iron_highest@hotmail.com
+
+
+Web site
+
+official site: newshom.com 
+password: NewsHom@123456
+
+backend site: admin.newshom.com
+user: admin@newshom.com 
+pass: admin
+
+03516a14dbce42ceca6b8b638ab65bd6addceed7
+
+7c184f56d589f79ea666bec4c230bc552e210bd9
+
+cb13779c804ba469aae3710f90de1432fd03eeb1
+
+6461c708b4047b75e9103421895cd5bc96999558
+
+1487d0110d715ef699b243c65372da13ca542ab5
+
+d1f4b3c9bae135105992c3b0d1f2957db7ff6bd1
+
+fd55cc8b9d289772a449d3dd4c4619e4dc2a4390
+
+5d8b5f511cba148a7f6bf343cbec4d20c4c434ae
+
+1- Download the videos I sent you before
+2- Clean the database from videos but keep users
+3- Add all emails I sent you before for testing on apple developer 
+4- Send me the most recent files you have ipa and android
+5- Send me the the final source code for iOS and android 
+6- work with the hosting to configure the system ( Nasser and shi should be together when speaking to provider )
+7- Send me videos you downloaded to be keep on my hard drive
+8- Fix the android in order to lunch it
+assuming we already launched the testing for the iOS as you have the emails now
+is it clear please?
+rajesh.edreamz@gmail.com
+kapil.rapelli@gmail.com
+nitinpogul@gmail.com
+NASSR_BAIK@YAHOO.COM
+
+Entertainment - 1
+Travel - 8
+Travel - 10
+Final game between Real Madrid 
+Jeddah City
+Niagara Falls Trip
+Niagra Falls Trip
+Roudat Khourim
+Snow In Mississauga
+Kids at winter
+Credit Valley School
+كرات اللحم مع الشيف ماهر
+Chetni making
+Mo &Lili
+Kids out of school
+Norway
+Angama Kenya
+Mara Kenya Trip
+Morning at Westminester
+London @ Night
+Big Ben
+Wembley Staduim
+Umrah Trip
+
+sameralrwaily@gmail.com
+mirthful78@gmail.com
+saeed@alrwaily.com
+ealrwaily@gmail.com
+mahmoudaga@hotmail.com
+ialrwaily@hotmail.com
+eyad.pg@gmail.com
+xceed1@gmail.com
+mohammed.zaghloul.live.com
+zakriah2010@hotmail.com
+raghadmss@gmail.com
+adnanhadad@gmail.com
+hishamothman@gmail.com
+yaman@alaan.tv
+Mohammed_abdulmawla@hotmail.com
+mhsaadoun@hotmail.fr
+denizalibek@yaho.com
+samer_baik@hotmail.com
+Basel_Baik@hotmail.com
+rana.khatib@mbc.net
+fotpanagiotopoulos@gmail.com
+burhan2@msn.com
+ihsan.baik@gmail.com
+mohammed.zaghloul@live.com
+
+NewsHom iOS App
+http://fir.im/ndgc
+
+NewsHom Android App
+http://fir.im/bevk
+
+Special Video
+https://www.dropbox.com/s/w2hveh6rnyca3ff/special_videos.zip?dl=0
+
+iOS app source
+https://www.dropbox.com/s/eewakf4ar6he700/Newshom_iOS_SRC_0807.zip?dl=0
+
+Android app source
+https://www.dropbox.com/s/juw5cmt90f02xo2/NewsHome_Android_SRC_0807.zip?dl=0
+
+- Finpargo
+
+AWS: 
+
+https://918738795961.signin.aws.amazon.com/console
+Username: finpargo_free_lancer
+Password: FreeLancer!
+
+ec2-52-39-3-35.us-west-2.compute.amazonaws.com
+
+Sinch website
+
+Username: Finpargo@gmail.com
+Password: Finpargo1!
+
+Google:
+
+Username: Finpargo@gmail.com
+Password: finpargo
+
+marcuslee701@gmail.com
+
+https://opentutorials.org/module/328/3056
+
+https://github.com/seatgeek/android-PlacesAutocompleteTextView
+
+- Kalahari
+
+
+In backendless where it shows orders, it doesn't show Salon Name, 
+Telephone Number, Address. Also this need to be added tot he order email so they know what the order is for. - This is how the order email comes through. Can you move the info that shows in the subject to the body. The subject can just say new salon app order. And then add the client details to the body as well. - Please also remove POD from checkout pages client says it looks to confusing.
+
+Backendless
+
+"(M9Z5-u'fE;gm*J
+erich.kleynhans@protem.digital
+
+from rest_framework.authtoken.models import Token
+from django.contrib.auth.models import User
+u = User.objects.get(email="shili")
+token = Token.objects.get(user=u)
+print(token.key)
+
+https://rorlab.gitbooks.io/railsguidebook/content/
+
+- Crossword
+
+Blue Host 
+
+turtlestudios28@gmail.com
+turtlestu.com
+Password: Jakenat28$
+
+Database: turtlet4_crossword
+UserName: turtlet4_idragon
+Password: lsu91930624
+
+FTP
+
+idragon@turtlestu.com
+Lsu9!930624
+
+Email Account :
+
+support@turtlestu.com
+Luck!236
+Private Key
+69252815504042045
+
+1)- a word that had not yet been revealed stated that it had been revealed.   
+2)We want to eliminate the need to submit a profile pic   
+3)The letter reveal button and word reveal button need to change. In fact, we wanted the word reveal button to be the elimination of irrelevant letters in the letter field. We will send suggestions for button graphics 
+4)We want the puzzle field to include pricing when box is clicked. See attachment 
+5)After puzzle is purchased, we would like a letter to be revealed on the puzzle field/game board. Other than those changes, we are assuming that the details will be easy for us to handle including background color changes and graphic art etc.replacements.
+
+- CtxNet
+
+Since SDK Account
+
+my account: doniscai@ctxnet.com
+password: JackieIsNaughtyHex12
+
+Mail : doniscai@ctxnet.com
+
+https://www.sinch.com/tutorials/ios-simple-voice-app-tutorial/
+
+
+
+633974C0AE80A7614FC74A1C1354E8156D07EE94
+
+rsc0430@outlook.com
+
+http://www.onlinehomeincome.in/ptc.php
+
+I will implement verification function as you said within hours and send IPA. And I need your payment by tomorrow. I should pay to doctor by tomorrow. I’ll be thank you if you can test it quickly and TT $ by tomorrow.
+
+first, as I have sent you my screenshot regarding the first time login, it displays dimmed mobile number 81214567, which I am checking where it comes from ...
+2nd issue: dialpad, the digit and charcter.. font size is still too small. can try your best to use as big fonts?
+3rd issue, I made a callout, call can be connected, however, I click the diaplad icon button, it did not show the dialpad.
+
+1. Crash when send and contact.
+2. iMsgV should show.(invite button)
+3. At call out, keypad should send dumf tone.
+
+- Upwork
+
+lingch71@outlook.com
+fjdlkzhwcbxi71
+
+Lukas Steiner
+
+447936
+
+lukas.st@aol.com
+lukas.stni@outlook.com
+username : lukasSt
+2nd!tr4pia
+
+What was the name of your first pet?
+
+Arinana
+
+username: lukasSt
+phone: 43 619 215 2995
+
+Address
+
+Universitätsring 1, 1010
+Vienna
+Austria
+
+Skype
+
+pt.salenko@outlook.com
+lks.stnr@outlook.com
+
+!P2le23renk0
+
+yr1990226@yahoo.com
+tkfkdgksmsskdmlwhrnr00
+
+Marcus Lee
+
+marcus.lee15@outlook.com
+w!lltr2bysuc
+
+2316851738
+W!lltr2bysuc
+
+Facebook: W!lltr2bysuc
+
+user name: MarcusLee
+
+Address : 34 Lower Kent Ridge Road
+Singapore 119077
+
++65 6513 2195
+
+Nab Group
+
+Video News App
+
+Nanyang Technological University
+
+Your first pet’s name
+
+Boomich
+
+Marcus.Lee
+
+What is your favorite childhood book?
+
+Harry Potter
+
+In what city did your parents meet?
+
+Singapore
+
+Bitbucket
+
+Jay L.
+
+TCTfuSWjzzVg72Q7X4SmDsi1Xrqv8roQB9
+0xebe9ecb135706948fb1ff5146744cf64603f79f1
+https://github.com/kevin10030/AppInfo
+
+marcus.lee15@outlook.com
+lsu91930624
+
+AWS
+
+username: marcuslee
+ password: IAR%{_q+TB&A
+
+CLI Key ID : doclilyios
+CLI Access Key : Rskdj2#I34pp1$
+CLI Default Region Name : us-east-1
+
+- Gabriel
+
+Skype 
+
+gabriel.grabowski@outlook.com
+gabriel817
+
+upwork
+d:gabriel817
+pwd:gabriel817
+
+
+Requirements:
+- user can see a list of currencies and their currency exchange rates, depending on the IP address - Australian customer sees AUD, Brazilian customer sees BRL, etc
+- user cannot add currencies or change currency exchange rates - it is fixed
+- user can deactivate and activate currencies within the list
+- a currency will have the currency exchange rate information
+- a currency ex. rate has timestamp attached to it
+- newest currency exchange rates are needed. Use a proper and stable API to get the currencies (yahoo finance API?). API should have vast amount of currencies. 
+- maybe a daemon is required. Write the app to get die exchange rates - 1x per minute
+- Make every currency available in the list including its information, as long as there is exchange information in the API
+
+Deliverables:
+- API Doc for the currency exchange rate
+- instructions on how to run the project locally
+- deployment instructions
+- instractions for the server setup
+
+Eftemie Suk
+
+Address : Domplein 29, 3512 JE Utrecht, Belanda
+
+Phone : +31 30 259 3660
+
+University : Teknik Delft
+
+Password: Teknik!234
+
+Email : eftsuk@outlook.com
+
+Your best friend’s nickname
+
+Duda
+
+yr1990226
+
+alvincai30@outlook.com
+
+Password : Rskdj2#I34pp1$
+
+Twilio
+
+lmsyx15@hotmail.com
+
+Lsu9!930624
+
+filip.olsen16@outlook.com
+
+@f!lip01s2n
+
+Upwork
+
+Password : !rchhppsyx@4ev
+
+Skype : filip.olsen16
+
+Password : lsu91930624
+
+You mother’s maiden name : Ellen
+
+Bitbucket
+
+flip.olsen16@outlook.com
+lsu91930624
+User Name : filip16olsen
+
+soban@muhio.com
+
+xcrun git config --global user.email you@yourdomain.com
+xcrun git config --global user.name "Your Name Here"
+
+taeyeonglee@outlook.com
+
+Yt4ac@9193
+
+tygolworld@outlook.com
+
+alias of rchpa@hotmail.com
+
+user name : leetaeyeong
+
+password : tyupwor!d268
+
+domittori.s@outlook.com
+
+Sok0!ov312
+
+UserName : domittoris
+
+soringbr@outlook.com
+!Raso*3pppy9
+
+First Name : Sorin
+Last Name : Gabor
+
+user name : soringbr
+
+- DocLily
+
+AWS Panel:
+https://doclily.signin.aws.amazon.com/console
+
+AKIAJBGYI4IZE4N5MRXQ
+HUZVijrmplwNoJ/I8AIj/LKyAOAfZl2tmtb1AAfM
+
+username : marcuslee
+password : IAR%{_q+TB&A
+password : lsu91930624
+
+Slack Team URL
+
+doclily.slack.com
+marcus.lee15@outlook.com
+lsu91930624
+
+Twilio
+
+kopine@outlook.com
+
+First Name : Marcus
+Last Name : Lee
+Password : Lsu9!930624
+
+https://git-scm.com/book/ko/v1/Git-%EB%B8%8C%EB%9E%9C%EC%B9%98-%EB%B8%8C%EB%9E%9C%EC%B9%98%EB%9E%80-%EB%AC%B4%EC%97%87%EC%9D%B8%EA%B0%80%3F
+
+git rm .gitattributes
+git add -A
+git reset --hard
+https://www.atlassian.com/git/tutorials/git-lfs
+
+Parse Pojos
+
+export ANDROID_HOME=$HOME/Library/Android/sdk
+export ANDROID_NDK_HOME=$HOME/Library/Android/sdk/ndk-bundle
+export ANDROID_NDK=$ANDROID_NDK_HOME
+export JAVA_HOME=`/usr/libexec/java_home -v 1.8`
+
+export PATH=$PATH:$ANDROID_HOME/tools
+export PATH=$PATH:$ANDROID_HOME/platform-tools
+export PATH=$PATH:$ANDROID_NDK_HOME
+export PATH=$PATH:${JAVA_HOME}/bin
+404 630 1238
+202 555 0001
+202 555 0002
+
+http://ec2-34-203-232-192.compute-1.amazonaws.com:32807/
+
+UPDATE 
+aws dynamodb update-item  --table-name doctors2 --key '{"id": {"S": "53dd7830-cd63-472e-a325-e9fc9c88026d"}}' --update-expression "REMOVE servicesOffered" --endpoint-url http://ec2-54-173-208-148.compute-1.amazonaws.com:32807/
+
+aws dynamodb update-item --table-name doctorServices --key '{"id": {"S": "heart-surgery"}}' --attribute-updates '{"durationSeconds": {"Value": {"N": "1"},"Action": "PUT"}}' --return-values UPDATED_NEW --endpoint-url http://ec2-54-173-208-148.compute-1.amazonaws.com:32807/
+
+DELETE
+aws dynamodb delete-item  --table-name doctorServiceDetails --key '{"serviceId": {"S": "office-visit"}, "doctorId": {"S": "e1d237bf-05c7-4f92-be26-27dca2ecb7f1"}}' --endpoint-url http://ec2-54-173-208-148.compute-1.amazonaws.com:32807/
+
+
+SCAN
+aws dynamodb scan --table-name doctorServiceDetails --endpoint-url http://ec2-34-203-232-192.compute-1.amazonaws.com:32807/
+
+https://docs.google.com/document/d/1hTeIf8aSex9hHqTSF17qEBwcj5neKg9qU3__bAOItgg/edit?usp=sharing
+
+https://docs.google.com/document/d/1dkTuwgTB2vUXdLH60Uf2iFovbHD4dM2ksXPMbxOj7AU/edit
+
+http://docs.google.com/document/d/1naEptw8i44c-CxO8pEVX7P5Bx1LYtkp7h55KCBGbn2U/edit?usp=sharing_eip&invite=CIrq_64P&ts=593b86e5
+
+https://docs.google.com/document/d/1pcc7PaDn7jk7ia5OERv8RAwzO0gDfvaNMxhjJdXjevE/edit?usp=sharing_eip&invite=COin0bcL&ts=591e4512
+https://docs.google.com/document/d/1r-30Hqrj_6rTmVH4N3Y08eT9pcPTBI2U5tvMdR77YXk/edit?usp=sharing
+
+https://github.com/aws/aws-sdk-java/issues/339
+
+Remove local untracked files
+
+* To remove directories, run git clean -f -d or git clean -fd.
+* To remove ignored files, run git clean -f -X or git clean -fX.
+* To remove ignored and non-ignored files, run git clean -f -x or git clean -fx.
+
+Discard unstated changes
+
+* git checkout . - Removes Unstaged Tracked files ONLY [Type 2]
+* git clean -f - Removes Unstaged UnTracked files ONLY [Type 3]
+* git reset --hard - Removes Staged Tracked and UnStaged Tracked files ONLY[Type 1, Type 2]
+* git stash -u - Removes all changes [Type 1, Type 2, Type 3]
+
+Delete remove tracking branch
+
+git branch -d -r origin/<remote branch name>
+
+31832b9da500de266916a7bbc1ae44a1aa9ce54eb5d35352c58f29293b73f077
+31832b9da500de266916a7bbc1ae44a1aa9ce54eb5d35352c58f29293b73f077
+
+31832b9da500de266916a7bbc1ae44a1aa9ce54eb5d35352c58f29293b73f077
+31832b9da500de266916a7bbc1ae44a1aa9ce54eb5d35352c58f29293b73f077
+
+
+carthage update CleanroomLogger --platform iOS --no-use-binaries
+
+https://console.firebase.google.com/
+kevin@checkstrategic.com
+Kevincomadran2012
+
+- KKR
+
+KRLuckGreat
+
+krluck@yahoo.com
+kkr19720818
+
+Hotmail
+
+kkr818@hotmail.com
+kkr19720818
+
+QQ
+
+2250126869
+kkr19720818
+
+2051684915
+
+
+FTP host: files.000webhost.com
+FTP Username: absorbable-solution
+FTP & explicit FTPS port:  21
+Password: lsu91930624
+
+http://freehostingnoads.net/
+https://www.000webhost.com/cpanel-login?from=panel
+
+
+brocaded-lack
+3m*NQUaCYyIqNn%yIFTf
+
+
+http://www.capnix.com/
+
+user name : krluck
+password: kkr19720818
+email : krluck@yahoo.com
+
+kkr1912188567
+
+Mega
+https://mega.nz/
+
+yr1990226@gmail.com
+yr1475369*-+
+
+rsu2019dev@gmail.com
+
+
+HP
+TCTfuSWjzzVg72Q7X4SmDsi1Xrqv8roQB9
+0xebe9ecb135706948fb1ff5146744cf64603f79f1
